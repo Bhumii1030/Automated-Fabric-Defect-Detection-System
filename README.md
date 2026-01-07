@@ -32,4 +32,4 @@ The model was evaluated on a "Hold-out" test set that it never saw during traini
 
 ## 📂 Repository Structure
 * `Fabric_Defect_Detection.ipynb`: The complete end-to-end pipeline (Data -> Training -> Prediction).
-dataset link: https://www.kaggle.com/datasets/nexuswho/aitex-fabric-image-database
+* dataset link: https://www.kaggle.com/datasets/nexuswho/aitex-fabric-image-database
